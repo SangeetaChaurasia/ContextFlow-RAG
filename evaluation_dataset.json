@@ -1,0 +1,55 @@
+[
+    {
+        "question": "What is the status of order ORD-83921?",
+        "expected_answer": "The package is currently in transit.",
+        "expected_source": "Order ORD-83921",
+        "type": "answerable"
+    },
+    {
+        "question": "What is the tracking number for order ORD-83921?",
+        "expected_answer": "TRK-552781",
+        "expected_source": "Order ORD-83921",
+        "type": "answerable"
+    },
+    {
+        "question": "What is the status of order ORD-74125?",
+        "expected_answer": "The package has been delivered.",
+        "expected_source": "Order ORD-74125",
+        "type": "answerable"
+    },
+    {
+        "question": "What is the tracking number for order ORD-74125?",
+        "expected_answer": "TRK-449812",
+        "expected_source": "Order ORD-74125",
+        "type": "answerable"
+    },
+    {
+        "question": "How long is a password reset link valid?",
+        "expected_answer": "30 minutes.",
+        "expected_source": "Password Reset",
+        "type": "answerable"
+    },
+    {
+        "question": "How long do I have to request a refund?",
+        "expected_answer": "30 days.",
+        "expected_source": "Refund Policy"
+    },
+    {
+        "question": "How long are refund requests reviewed?",
+        "expected_answer": "2 business days.",
+        "expected_source": "Refund Policy",
+        "type": "answerable"
+    },
+    {
+        "question": "How can I track my order?",
+        "expected_answer": "Go to the Orders section and click Track Order.",
+        "expected_source": "Order Tracking",
+        "type": "answerable"
+    },
+    {
+        "question": "What is the delivery date of order ORD-83921?",
+        "expected_answer": "I don't have enough information to answer that.",
+        "expected_source": null,
+        "type": "unanswerable"
+    }
+]

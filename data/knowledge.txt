@@ -1,0 +1,66 @@
+[Password Reset]
+Category: account
+
+To reset your password, go to the login page and click the
+"Forgot password" link.
+
+Enter the email address associated with your account.
+You will receive an email containing a password reset link.
+
+The password reset link expires after 30 minutes.
+
+If you do not receive the email, check your spam or junk folder.
+If the email is still missing, contact customer support.
+
+
+[Refund Policy]
+Category: billing
+
+Customers can request a refund within 30 days of purchase.
+
+To request a refund, open the Orders section of your account,
+select the order you want to refund, and click the "Request Refund"
+button.
+
+Refund requests are reviewed within 2 business days.
+
+Approved refunds are returned to the original payment method.
+
+
+[Order Tracking]
+Category: shipping
+
+You can track your order from the Orders section of your account.
+
+Open the order you want to track and click "Track Order".
+
+Once the order has been shipped, you will see the tracking number
+and the latest shipping status.
+
+Tracking information may take up to 24 hours to appear after shipment.
+
+
+[Change Email Address]
+Category: account
+
+You can change your email address from your account settings.
+
+Open Settings, select Account Information, and update your email
+address.
+
+You may be asked to verify the new email address.
+
+After verification, future account notifications will be sent to
+the new email address.
+
+[Order ORD-83921]
+Category: orders
+
+Order ORD-83921 was shipped on August 15, 2026. The tracking number is TRK-552781. The package is currently in transit.
+
+[Order ORD-74125]
+Category: orders
+
+Order ORD-74125 was shipped on August 12, 2026.
+The tracking number is TRK-449812.
+The package has been delivered.
